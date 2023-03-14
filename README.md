@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <!--COUNTER OF VIEWS-->
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielEngDev}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Silas-sama}/count.svg" /></p> 
   <br>
 </div>
 
