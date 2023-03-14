@@ -1,6 +1,3 @@
-### Hi I'm Silas 😎
-![EeveePikachuGIF](https://user-images.githubusercontent.com/80609450/224987778-7e869f0c-03e3-43f1-a758-468fc2d2bde5.gif)
-
 <!--
 **Silas-sama/Silas-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <!--TYPING-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Oliveira;I'm+21+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1269B0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Silas+Rocha;I'm+00's;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <!--DASHBOARD-->
@@ -61,3 +58,5 @@ Here are some ideas to get you started:
 
 <!--DOWN IMAGE-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=footer"/>
+
+![EeveePikachuGIF](https://user-images.githubusercontent.com/80609450/224987778-7e869f0c-03e3-43f1-a758-468fc2d2bde5.gif)
