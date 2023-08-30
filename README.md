@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silas-sama&show_icons=true&bg_color=00000000&locale=en&layout=compact" alt="silas-sama" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silas-sama&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="silas-sama" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silas-sama&show_icons=true&bg_color=00000000&locale=en" alt="silas-sama" /></p>
