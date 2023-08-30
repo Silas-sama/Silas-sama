@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DB**
 
-- 📄 Know about my experiences [on LinkedIn](on LinkedIn)
+- 📄 Know about my experiences **on LinkedIn**
 
 - ⚡ Fun fact **I love read**
 
