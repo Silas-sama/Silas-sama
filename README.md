@@ -1,59 +1,23 @@
-<!--
-**Silas-sama/Silas-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello, I'm Silas Rocha</h1>
+<h3 align="center">A developer from Brazil</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=silas-sama&label=Profile%20views&color=0e75b6&style=flat" alt="silas-sama" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Oracle APEX at TCU**
 
-<!--UP IMAGE-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=header"/>
+- 🌱 I’m currently learning **DB**
 
+- 📄 Know about my experiences [on LinkedIn](on LinkedIn)
 
+- ⚡ Fun fact **I love read**
 
-<!--TYPING-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1269B0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Silas+Rocha;I'm+00s;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
-<!--DASHBOARD-->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Silas-sama&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=BA55D3&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silas-sama&layout=compact&hide_border=true&title_color=1269B0&text_color=ff91a4&bg_color=0D1117" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silas-sama&show_icons=true&locale=en&layout=compact" alt="silas-sama" /></p>
 
-
-
-<!--LANGUAGES-->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-
-<!--COUNTER OF VIEWS-->
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Silas-sama}/count.svg" /></p> 
-  <br>
-</div>
-
-
-<!--SOCIAL--> 
-<div>
-    <a href="https://www.linkedin.com/in/silas-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:silasrochacostamew@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-
-<!--DOWN IMAGE-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=footer"/>
-
-![EeveePikachuGIF](https://user-images.githubusercontent.com/80609450/224987778-7e869f0c-03e3-43f1-a758-468fc2d2bde5.gif)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silas-sama&show_icons=true&locale=en" alt="silas-sama" /></p>
